@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #012043;
+}
+
+.cabecalho {
+    background-color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.container {
+
+    background-color: #D34646;
+    margin: 20px auto;
+    text-align: center;
+    width: 230px;
+    padding: 10px;
+    border-radius: 20px 30px 20px 20px;
+}
+
+.container-informacao {
+    height: 250px;
+
+}
+
+.led {
+    border: solid black 2px;
+    background-color: blue;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+}
+
+.btnBusca {
+    text-align: center;
+    width: 180px;
+    height: 30px;
+    border-radius: 20px;
+    margin-top: 10px;
+    font-size: medium;
+
+}
+
+#idPokemon {
+    text-align: center;
+
+}
+
+#imgPokemon {
+    height: 120px;
+    width: auto;
+    margin-top: 10px;
+    border-radius: 10px 10px 10px 30px;
+    background-color: white;
+    text-align: center;
+}
+
+#nomePokemon {
+    color: white;
+    font-size: 30px;
+    text-transform: capitalize;
+    padding: 10px;
+}
+
